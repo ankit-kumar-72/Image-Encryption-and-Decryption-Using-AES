@@ -1,1 +1,57 @@
 # Image-Encryption-and-Decryption-Using-AES
+
+Table of Contents
+
+    Description
+    Features
+    Usage
+    Technologies Used
+    Contributing
+    License
+
+Description
+
+This project demonstrates the encryption and decryption of images using the AES (Advanced Encryption Standard) algorithm. AES is a widely used symmetric encryption algorithm that provides strong security for sensitive data.
+Features
+
+    Encryption of images using AES-256 algorithm.
+    Decryption of encrypted images with the correct key.
+    Supports various image formats (e.g., JPEG, PNG).
+    Easy-to-use command-line interface.
+
+
+Usage
+
+    Encrypt an image:
+
+    bash
+
+python encrypt.py --input path/to/input/image.jpg --output path/to/output/encrypted_image.jpg --key your_encryption_key
+
+Decrypt an image:
+
+bash
+
+    python decrypt.py --input path/to/input/encrypted_image.jpg --output path/to/output/decrypted_image.jpg --key your_encryption_key
+
+    [Provide_any_additional_usage_instructions.]
+
+Technologies Used
+
+    Python
+    AES Encryption Algorithm
+    [Any_other_libraries_or_technologies_used.]
+
+Contributing
+
+Contributions are welcome! Please follow these steps:
+
+    Fork the repository.
+    Create a new branch for your feature or bug fix.
+    Make your changes and commit them with descriptive messages.
+    Push your changes to your fork.
+    Open a pull request.
+
+License
+
+This project is licensed under the MIT License.
