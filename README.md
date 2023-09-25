@@ -24,13 +24,9 @@ Usage
 
     Encrypt an image:
 
-    bash
-
 python encrypt.py --input path/to/input/image.jpg --output path/to/output/encrypted_image.jpg --key your_encryption_key
 
 Decrypt an image:
-
-bash
 
     python decrypt.py --input path/to/input/encrypted_image.jpg --output path/to/output/decrypted_image.jpg --key your_encryption_key
 
