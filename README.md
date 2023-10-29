@@ -7,7 +7,6 @@ Table of Contents
     Usage
     Technologies Used
     Contributing
-    License
 
 Description
 
@@ -46,6 +45,3 @@ Contributions are welcome! Please follow these steps:
     Push your changes to your fork.
     Open a pull request.
 
-License
-
-This project is licensed under the MIT License.
