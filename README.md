@@ -2,7 +2,7 @@
 
 Table of Contents
 
-    Description
+    Description 
     Features
     Usage
     Technologies Used
