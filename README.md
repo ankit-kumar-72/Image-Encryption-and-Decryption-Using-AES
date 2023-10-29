@@ -24,17 +24,16 @@ Usage
 
     Encrypt an image:
 
-python encrypt.py --input path/to/input/image.jpg --output path/to/output/encrypted_image.jpg --key your_encryption_key
+java encrypt.java --input path/to/input/image.jpg --output path/to/output/encrypted_image.jpg --key your_encryption_key
 
 Decrypt an image:
 
-    python decrypt.py --input path/to/input/encrypted_image.jpg --output path/to/output/decrypted_image.jpg --key your_encryption_key
+    java decrypt.java --input path/to/input/encrypted_image.jpg --output path/to/output/decrypted_image.jpg --key your_encryption_key
 
-    [Provide_any_additional_usage_instructions.]
 
 Technologies Used
 
-    Python
+    Java
     AES Encryption Algorithm
     [Any_other_libraries_or_technologies_used.]
 
