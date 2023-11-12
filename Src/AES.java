@@ -1,7 +1,3 @@
-//Copyright Popa Tiberiu 2011
-//free to use this in any way
-
-//package tsd.crypto.algoritm;
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
 import java.io.*;
